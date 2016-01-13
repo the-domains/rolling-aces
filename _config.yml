@@ -1,0 +1,28 @@
+name: Rolling Aces
+favicon: null
+layout_spectrum: 0.710070505971089
+typography_spectrum: 0.16233298601582646
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.32614070014096797
+  lightness: 0.3474717529024929
+  saturation: 0.18888704082928598
+  rhythmicContrast: 0.3785334238782525
+purpose: []
