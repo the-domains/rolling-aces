@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Rolling Aces]]></title>
+        <description><![CDATA[Rolling Aces]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jan 2016 16:39:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>THIS IS THE INTERNET! BEHOLD IT IN ALL OF ITS GLORY.</p>]]></description>
+            <link>undefined0d41cc85-3d06-4ba4-81e6-5ee5d852d174/index.html</link>
+            <guid isPermaLink="false">0d41cc85-3d06-4ba4-81e6-5ee5d852d174</guid>
+            <pubDate>Wed, 13 Jan 2016 16:39:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
